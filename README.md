@@ -1,4 +1,4 @@
-# Jayesh Parmar - Portfolio Website
+# Vasu Bhalodi - Portfolio Website
 
 A modern, responsive portfolio website built with HTML and Tailwind CSS.
 
@@ -21,7 +21,7 @@ A modern, responsive portfolio website built with HTML and Tailwind CSS.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jayesh001j/portfolio.git
+git clone https://github.com/Vasubhalodi011/Vasu_Protfolio
 ```
 
 2. Open `index.html` in your browser
@@ -34,7 +34,7 @@ The site can be deployed using any of these platforms:
 1. Push the code to your GitHub repository
 2. Go to repository Settings > Pages
 3. Select the main branch as source
-4. Your site will be live at `https://jayesh001j.github.io/portfolio`
+4. Your site will be live at `https://github.com/Vasubhalodi011/Vasu_Protfolio
 
 ### Netlify
 1. Sign up for a Netlify account
